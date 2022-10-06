@@ -1,0 +1,12 @@
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+*.bak-mo
+*dsin.txt
+*buildlog.txt
+*dsfinal.txt
+*dslog.txt
+*dsmodel.c
+*dymosim.exp
+*.mat
