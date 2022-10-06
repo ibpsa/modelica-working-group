@@ -7,7 +7,7 @@ International Building Performance Simulaton Association (https://ibpsa.org/).
 
 The purpose and scope of the Working Group includes the following:
 
-1. Maintain and further develop the [Modelica IBPSA Library](https://github.com/ibpsa/modelica-ibpsa)
+1. Maintain and further develop the [Modelica IBPSA Library](https://github.com/ibpsa/modelica-ibpsa).
    The Working Group shall follow state of the art principles that ensure that models are reviewed,
    validated and well documented.
    The development shall respond to the requirements of 3rd party libraries that integrate
