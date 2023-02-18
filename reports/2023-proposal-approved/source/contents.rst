@@ -1,9 +1,7 @@
-﻿
-
-Abstract
+﻿Abstract
 ========
 
-IBPSA Project 1 will finish around August 2022.
+IBPSA Project 1 is executed from August 2017 to August 2022.
 IBPSA Project 1 created the Modelica IBPSA Library (https://github.com/ibpsa/modelica-ibpsa)
 which is used as the core of various Modelica libraries for building and
 district energy systems.
@@ -16,7 +14,6 @@ Organizationally, the Working Group will be part of the IBPSA Projects Committee
 We propose to form a Working Group rather than a new Project
 because the continuation is expected to be indefinite as long as there
 are substantial contributions and usage of the developed code.
-
 
 
 Proposal

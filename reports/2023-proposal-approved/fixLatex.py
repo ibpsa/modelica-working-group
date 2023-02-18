@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 import os, sys
 from io import open
@@ -32,6 +32,6 @@ freplace('\section{',
 freplace('\chapter{',
         '\section{')
 
-freplace('This document proposes a continuation',
-         '\section{Abstract}\nThis document proposes a continuation')
+freplace('IBPSA Project 1 is executed from August 2017 to August 2022',
+         '\section{Abstract}\nIBPSA Project 1 is executed from August 2017 to August 2022')
 
