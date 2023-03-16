@@ -17,6 +17,6 @@ The purpose and scope of the Working Group includes the following:
 2. Coordinate the needs of the IBPSA community with the Modelica Association and
    with Modelica modeling and simulation environment developers.
 
-See the approved [proposal](https://github.com/ibpsa/modelica-working-group/blob/main/reports/2022-proposal/build/latex/ibpsa_modelica.pdf) for details.
+See the approved [proposal](https://github.com/ibpsa/modelica-working-group/blob/main/reports/2023-proposal-approved/build/latex/ibpsa_modelica.pdf) for details.
 
 For the wiki that contains meeting announcements and agendas, visit https://github.com/ibpsa/modelica-working-group/wiki.
