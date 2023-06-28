@@ -15,10 +15,8 @@ There are currently
 {{ site.data.sponsoring_participants | size }} sponsoring participants, and
 {{ site.data.individual_participants | size }} individual participants.
 
-For further information, see below and the
-[workplan]({{ site.url }}/downloads/ibpsa_modelica-working-group_workplan.pdf).
 
-To receive announcements you need join one or more of these email announcement lists:
+To receive announcements you need join this email announcement list:
 
 <table>
 <tr><td>
