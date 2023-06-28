@@ -1,34 +1,16 @@
+- date_joined:   5/18/2016
+  contact_name:  Michael Wetter
+  contact_email: MWetter@lbl.gov
+  institute:     Lawrence Berkeley National Laboratory
+  affiliation:   Lawrence Berkeley National Laboratory
+  country:       USA
+  role:          Co-operating agent
 
-- date_joined:   10/27/2017
-  contact_name:  Javier Arroyo
-  contact_email: javier.arroyo@kuleuven.be
-  affiliation:   KU Leuven
-  country:       Belgium
-
-
-- date_joined:   9/29/2019
-  contact_name:  Laura Zabala
-  contact_email: laura.zabala@r2msolution.com
-  affiliation:   R2M Solution Spain SL
-  country:       Spain
-
-
-- date_joined:   10/10/2022
-  contact_name:  Jelger Jansen
-  contact_email: jelger.jansen@kuleuven.be
-  affiliation:   KU Leuven
-  country:       Belgium
-  
-- date_joined:   10/10/2022
-  contact_name:  Dre Helmns
-  contact_email: dhelmns@g.hmc.edu
-  affiliation:   Harvey Mudd College
-  country:       USA (CA)
 
 - date_joined:   4/1/2020
   contact_name:  H. Casper Fu
   contact_email: HCasperFu@lbl.gov
-  affiliation:     Lawrence Berkeley National Laboratory
+  affiliation:   Lawrence Berkeley National Laboratory
   institute:     Lawrence Berkeley National Laboratory
   country:       USA 
   
@@ -96,10 +78,35 @@
   institute:     KU Leuven, Department of Mechanical Engineering / EnergyVille Thermal Systems
   country:       Belgium
 
+- date_joined:   10/27/2017
+  contact_name:  Javier Arroyo
+  contact_email: javier.arroyo@kuleuven.be
+  affiliation:   KU Leuven
+  country:       Belgium
 
+- date_joined:   10/10/2022
+  contact_name:  Jelger Jansen
+  contact_email: jelger.jansen@kuleuven.be
+  affiliation:   KU Leuven
+  country:       Belgium
+  
+- date_joined:   10/10/2022
+  contact_name:  Dre Helmns
+  contact_email: dhelmns@g.hmc.edu
+  affiliation:   Harvey Mudd College
+  country:       USA (CA)
+  
 - date_joined:   3/29/2017
   contact_name:  Massimo Cimmino
   contact_email: massimo.cimmino@polymtl.ca
   affiliation:     École Polytechnique de Montréal
   institute:     École Polytechnique de Montréal
   country:       Canada
+  
+- date_joined:   9/29/2019
+  contact_name:  Laura Zabala
+  contact_email: laura.zabala@r2msolution.com
+  affiliation:   R2M Solution Spain SL
+  country:       Spain
+
+  
