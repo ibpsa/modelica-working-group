@@ -5,75 +5,10 @@
   country:       USA
   role:          Co-operating agent
   
-- date_joined:   10/10/2018
-  contact_name:  Filip Jorissen
-  contact_email: filip.jorissen@builtwins.com
-  institute:     BUILTWINS
-  affiliation:   BUILTWINS
-  country:       Belgium
-  
-- date_joined:   5/18/2018
-  contact_name:  Ettore Zanetti
-  contact_email: ezanetti@lbl.gov
-  institute:     Lawrence Berkeley National Laboratory
-  country:       USA
-  
-- date_joined:   4/1/2020
-  contact_name:  H. Casper Fu
-  contact_email: HCasperFu@lbl.gov
-  institute:     Lawrence Berkeley National Laboratory
-  country:       USA  
   
 
-- date_joined:   5/18/2016
-  contact_name:  Christoph van Treeck
-  contact_email: treeck@e3d.rwth-aachen.de
-  institute:     RWTH Aachen University - E3D
-  country:       Germany
-
-- date_joined:   5/18/2016
-  contact_name:  Fabian Wullhorst
-  contact_email: fabian.wuellhorst@eonerc.rwth-aachen.de
-  institute:     RWTH Aachen University - E3D
-  country:       Germany
-  
-- date_joined:   9/9/2021
-  contact_name:  Laura Maier
-  contact_email: laura.maier@eonerc.rwth-aachen.de
-  institute:   RWTH Aachen University - E3Db
-  country:       Germany
-  
-- date_joined:   5/18/2016
-  contact_name:  Alessandro Maccarini
-  contact_email: alm@sbi.aau.dk
-  institute:     Aalborg University
-  country:       Denmark
-
-- date_joined:   5/18/2016
-  contact_name:  Wangda Zuo
-  contact_email: wangda.zuo@psu.edu
-  institute:     Penn State University
-  country:       USA
 
 
-- date_joined:   6/26/2016
-  contact_name:  Lieve Helsen
-  contact_email: Lieve.Helsen@kuleuven.be
-  institute:     KU Leuven, Department of Mechanical Engineering / EnergyVille Thermal Systems
-  country:       Belgium
-
-
-- date_joined:   3/29/2017
-  contact_name:  Massimo Cimmino
-  contact_email: massimo.cimmino@polymtl.ca
-  institute:     École Polytechnique de Montréal
-  country:       Canada
-
-- date_joined:   10/10/2022
-  contact_name:  Saranya Anbarasu
-  contact_email: sba5847@psu.edu
-  institute:     Penn State University
-  country:       USA
 
 
 
