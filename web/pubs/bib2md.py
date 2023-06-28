@@ -29,7 +29,7 @@ permalink: /publications
 # text before publication lists
 INTRO = '''
 <p>
-This page lists publications that emerged from the IBPSA Project 1.
+This page lists publications that emerged from the IBPSA Modelica Working Group.
 Publications from its predecessor, IEA EBC Annex 60, can be found at
 <a href="http://www.iea-annex60.org/pubs.html">iea-annex60.org</a>.
 </p>
@@ -41,7 +41,7 @@ Visit
 <h1>BOPTEST Buildings Optimization Performance Tests</h1>
 <p>
 Visit
-<a href="https://github.com/ibpsa/project1-boptest">https://github.com/ibpsa/project1-boptest</a>
+<a href="https://github.com/ibpsa/modelica-working-group-boptest">https://github.com/ibpsa/modelica-working-group-boptest</a>
 </p>
 
 '''

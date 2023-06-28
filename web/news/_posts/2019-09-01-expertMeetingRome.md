@@ -8,14 +8,14 @@ type: workshop
 author: Michael Wetter
 ---
 
-On August 31 and September 1, 2019, the IBPSA Project 1 held its 4th Expert Meeting.
+On August 31 and September 1, 2019, the IBPSA Modelica Working Group held its 4th Expert Meeting.
 The meeting took place in Rome, Italy
 and was attended by 50 people.
 
 <!--excerpt-->
 The meeting coordinated the ongoing work in the various tasks.
 Task 1 held hands-on training for the
-[BOPTEST](https://github.com/ibpsa/project1-boptest)
+[BOPTEST](https://github.com/ibpsa/modelica-working-group-boptest)
 Building Optimization Performance Tests.
 Joint sessions between Task 1 and 3 discussed methods for how
 to improve the computing performance of large district energy models.
@@ -25,8 +25,8 @@ heating systems that are being developed for the DESTEST
 validation suite.
 
 For the slides of the meeting and its various breakout sessions,
-see the [github repository](https://github.com/ibpsa/project1/tree/master/meetings/2019-08-31-expert-meeting-rome).
+see the [github repository](https://github.com/ibpsa/modelica-working-group/tree/master/meetings/2019-08-31-expert-meeting-rome).
 
-![IBPSA Project 1 Expert Meeting Attendees]({{ site.url }}/assets/img/rome-photo.jpg "IBPSA Project 1 Expert Meeting Attendees"){:width="800px"}
+![IBPSA Modelica Working Group Expert Meeting Attendees]({{ site.url }}/assets/img/rome-photo.jpg "IBPSA Modelica Working Group Expert Meeting Attendees"){:width="800px"}
 
-*IBPSA Project 1 Expert Meeting Attendees.*
+*IBPSA Modelica Working Group Expert Meeting Attendees.*

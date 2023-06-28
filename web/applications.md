@@ -5,7 +5,7 @@ permalink: /applications
 ---
 
 <h1>List of case studies</h1>
-<p>On this page, a number of case studies that emerged from IBPSA Project 1 participants are listed. The case studies deal with different applications ranging from HVAC systems in buildings to district heating networks. The aim is to demonstrate capabilities that are enabled through the use of Modelica.</p>
+<p>On this page, a number of case studies that emerged from IBPSA Modelica Working Group participants are listed. The case studies deal with different applications ranging from HVAC systems in buildings to district heating networks. The aim is to demonstrate capabilities that are enabled through the use of Modelica.</p>
 
 
 

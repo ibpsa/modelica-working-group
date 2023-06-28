@@ -11,7 +11,7 @@ width="600px">
 
 Below are the main expert meetings and presentations.
 For coordination meeting schedule, visit
-[https://github.com/ibpsa/project1/wiki/Meetings](https://github.com/ibpsa/project1/wiki/Meetings)
+[https://github.com/ibpsa/modelica-working-group/wiki/Meetings](https://github.com/ibpsa/modelica-working-group/wiki/Meetings)
 
 
 # Upcoming meetings and presentations

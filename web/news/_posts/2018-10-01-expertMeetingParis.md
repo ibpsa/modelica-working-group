@@ -8,7 +8,7 @@ type: workshop
 author: Michael Wetter
 ---
 
-On October 1 and 2, 2018, the IBPSA Project 1 held its second Expert Meeting. The meeting took place
+On October 1 and 2, 2018, the IBPSA Modelica Working Group held its second Expert Meeting. The meeting took place
 at ENGIE Lab, hosted by Valentin Gavan and Lisa Rivalin.
 The meeting was attended by 40 people. The main focus of meeting was to coordinate the work of the various work packages.
 There was also a
@@ -20,9 +20,9 @@ backbone.
 
 
 <!--excerpt-->
-For see the [github repository](https://github.com/ibpsa/project1/tree/master/meetings/2018-10-01-expert-meeting-paris)
+For see the [github repository](https://github.com/ibpsa/modelica-working-group/tree/master/meetings/2018-10-01-expert-meeting-paris)
 for links to presentations.
 
-![IBPSA Project 1 Expert Meeting Attendees]({{ site.url }}/assets/img/paris-photo.jpg "IBPSA Project 1 Expert Meeting Attendees"){:width="800px"}
+![IBPSA Modelica Working Group Expert Meeting Attendees]({{ site.url }}/assets/img/paris-photo.jpg "IBPSA Modelica Working Group Expert Meeting Attendees"){:width="800px"}
 
-*IBPSA Project 1 Expert Meeting Attendees.*
+*IBPSA Modelica Working Group Expert Meeting Attendees.*

@@ -16,7 +16,7 @@ There are currently
 {{ site.data.individual_participants | size }} individual participants.
 
 For further information, see below and the
-[workplan]({{ site.url }}/downloads/ibpsa_project1_workplan.pdf).
+[workplan]({{ site.url }}/downloads/ibpsa_modelica-working-group_workplan.pdf).
 
 To receive announcements you need join one or more of these email announcement lists:
 
@@ -26,64 +26,12 @@ General Project Announcements,<br/>also used to announce meetings in the work gr
 </td><td>
 <a class="btn btn-primary btn"
                 style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-announcements">
+                href="https://github.com/ibpsa/modelica-working-group/wiki">
                 Archive</a>
 </td><td>
 <a class="btn btn-primary btn"
                 style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-announcements/join">
-                Register</a>
-</td></tr>
-<tr><td>
-Work Package 1.1
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-wp1-1">
-                Archive</a>
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-wp1-1/join">
-                Register</a>
-</td></tr>
-<tr><td>
-Work Package 1.2
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-wp1-2">
-                Archive</a>
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-wp1-2/join">
-                Register</a>
-</td></tr>
-<tr><td>
-Task 2
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-information-modelling">
-                Archive</a>
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-information-modelling/join">
-                Register</a>
-</td></tr>
-<tr><td>
-Task 3
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-application-and-dissemination">
-                Archive</a>
-</td><td>
-<a class="btn btn-primary btn"
-                style="color:white;text-decoration:none"
-                href="https://groups.google.com/forum/#!forum/ibpsa-project-1-application-and-dissemination/join">
+                href="https://groups.google.com/g/ibpsa_modelica_working_group">
                 Register</a>
 </td></tr>
 </table>

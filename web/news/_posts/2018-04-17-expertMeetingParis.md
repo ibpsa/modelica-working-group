@@ -8,7 +8,7 @@ type: workshop
 author: Michael Wetter
 ---
 
-Please reserve the date for the next IBPSA Project 1 Expert Meeting, to be held on Monday and Tuesday, October 1 and 2, 2018, in or around Paris.
+Please reserve the date for the next IBPSA Modelica Working Group Expert Meeting, to be held on Monday and Tuesday, October 1 and 2, 2018, in or around Paris.
 
 <!--excerpt-->
 
@@ -17,10 +17,10 @@ The meeting will be hosted by Valentin Gavan from Engie Lab. The exact location 
 For now, please mark these dates on your calendar. We will send an update when the location and agenda solidifies, and when the registration of the meeting is open.
 
 *Who should attend?*
-Attendance at the Expert Meeting is required for Organizational Participants (see https://ibpsa.github.io/project1/participants.html), but other participants
-who intent to actively contribute to the IBPSA Project 1 are encouraged
+Attendance at the Expert Meeting is required for Organizational Participants (see https://ibpsa.github.io/modelica-working-group/participants.html), but other participants
+who intent to actively contribute to the IBPSA Modelica Working Group are encouraged
 to also attend.
 These meetings are important to coordinate the work within the tasks and among the tasks.
 
-See [https://ibpsa.github.io/project1/participants.html](https://ibpsa.github.io/project1/participants.html) for membership levels and
-[https://ibpsa.github.io/project1/](https://ibpsa.github.io/project1/) for tasks and work plan.
+See [https://ibpsa.github.io/modelica-working-group/participants.html](https://ibpsa.github.io/modelica-working-group/participants.html) for membership levels and
+[https://ibpsa.github.io/modelica-working-group/](https://ibpsa.github.io/modelica-working-group/) for tasks and work plan.

@@ -5,7 +5,7 @@ permalink: /publications
 ---
 
 <p>
-This page lists publications that emerged from the IBPSA Project 1.
+This page lists publications that emerged from the IBPSA Modelica Working Group.
 Publications from its predecessor, IEA EBC Annex 60, can be found at
 <a href="http://www.iea-annex60.org/pubs.html">iea-annex60.org</a>.
 </p>
@@ -17,7 +17,7 @@ Visit
 <h1>BOPTEST Buildings Optimization Performance Tests</h1>
 <p>
 Visit
-<a href="https://github.com/ibpsa/project1-boptest">https://github.com/ibpsa/project1-boptest</a>
+<a href="https://github.com/ibpsa/modelica-working-group-boptest">https://github.com/ibpsa/modelica-working-group-boptest</a>
 </p>
 
 
@@ -87,7 +87,7 @@ Visit
 <span class="title">The reservoir network: A new network topology for district heating and cooling</span>.<br><span class="author">Tobias Sommer, Matthias Sulzer, Michael Wetter, Artem Sotnikov, Stefan Mennel, Christoph Stettler</span>.<br><i>Energy</i>, Vol. 199, p. 117418, <span class="year">2020</span>.<br>[ <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544220305259">link</a> ]
 </li>
 <li>
-<span class="title">IBPSA Project 1: BIM/GIS and Modelica framework for building and community energy system design and operation - ongoing developments, lessons learned and challenges</span>.<br><span class="author">Michael Wetter, Christoph van Treeck, Lieve Helsen, Alessandro Maccarini, Dirk Saelens, Darren Robinson, Gerald Schweiger</span>.<br><i>IOP Conference Series: Earth and Environmental Science</i>, Vol. 323, p. 012114, <span class="month">September</span>, <span class="year">2019</span>.<br>[ <a href="https://www.doi.org/10.1088/1755-1315/323/1/012114">link</a> ]
+<span class="title">IBPSA Modelica Working Group: BIM/GIS and Modelica framework for building and community energy system design and operation - ongoing developments, lessons learned and challenges</span>.<br><span class="author">Michael Wetter, Christoph van Treeck, Lieve Helsen, Alessandro Maccarini, Dirk Saelens, Darren Robinson, Gerald Schweiger</span>.<br><i>IOP Conference Series: Earth and Environmental Science</i>, Vol. 323, p. 012114, <span class="month">September</span>, <span class="year">2019</span>.<br>[ <a href="https://www.doi.org/10.1088/1755-1315/323/1/012114">link</a> ]
 </li>
 <li>
 <span class="title">Practical Factors of Envelope Model Setup and Their Effects on the Performance of Model Predictive Control for Building Heating, Ventilating, and Air Conditioning Systems</span>.<br><span class="author">D.H. Blum, K. Arendt, L. Rivalin, M.A. Piette, M. Wetter, C.T. Veje</span>.<br><i>Applied Energy </i>, Vol. 236, p. 410 - 425, <span class="year">2019</span>.<br>[ <a href="http://www.sciencedirect.com/science/article/pii/S0306261918318099">link</a> ]
@@ -193,7 +193,7 @@ Visit
 <span class="title">Enhancing the Implementation of a First-order Equivalent Thermal Parameter Model to Enable Accurate and Robust Building Thermal Response Prediction</span>.<br><span class="author">Kathryn Hinkelman, Sen Huang, Jing Wang, Jianming Lian, Wangda Zuo</span>.<br><i>Proceedings of Building Simulation 2019: 16th Conference of IBPSA</i>, Vol. 16, <span class="month">September</span>, <span class="year">2019</span>.<br>[ <a href="./pubs/pdf/HinkelmanHuangEtAl_2019_1.pdf">pdf</a> ]
 </li>
 <li>
-<span class="title">Towards a DESTEST: a District Energy Simulation Test Developed in IBPSA Project 1</span>.<br><span class="author">D. Saelens, I. De Jaeger, F. B&uuml;nning, M. Mans, A. Vandermeulen, B. van der Heijde, E. Garreau, A. Maccarini,  &Oslash;. R&oslash;nneseth, I. Sartori, L. Helsen</span>.<br><i>Proceedings of Building Simulation 2019: 16th Conference of IBPSA</i>, Vol. 16, <span class="month">September</span>, <span class="year">2019</span>.<br>
+<span class="title">Towards a DESTEST: a District Energy Simulation Test Developed in IBPSA Modelica Working Group</span>.<br><span class="author">D. Saelens, I. De Jaeger, F. B&uuml;nning, M. Mans, A. Vandermeulen, B. van der Heijde, E. Garreau, A. Maccarini,  &Oslash;. R&oslash;nneseth, I. Sartori, L. Helsen</span>.<br><i>Proceedings of Building Simulation 2019: 16th Conference of IBPSA</i>, Vol. 16, <span class="month">September</span>, <span class="year">2019</span>.<br>
 </li>
 <li>
 <span class="title">Integrated Modelica Model and Model Predictive Control of a Terraced House Using IDEAS</span>.<br><span class="author">Filip Jorissen, Lieve Helsen</span>.<br><i>Proceedings of the 13th International Modelica Conference</i>, <span class="month">March</span>, <span class="year">2019</span>.<br>[ <a href="https://modelica.org/events/modelica2019/proceedings/html/papers/Modelica2019paper2A2.pdf">link</a> ]
