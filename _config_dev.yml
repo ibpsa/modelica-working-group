@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: IBPSA Project 1
+title: IBPSA Modelica Working Group
 email: MWetter@lbl.gov
 description: > # this means to ignore newlines until "baseurl:"
   BIM/GIS and Modelica framework for building and community energy system design and operation
-#baseurl: /project1 # the subpath of your site, e.g. /blog
+#baseurl: /modelica-working-group # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://127.0.0.1:4000 # the base hostname & protocol for your site
 twitter_username:
-github_username:  ibpsa/project1
+github_username:  ibpsa/modelica-working-group
 
 include: ['_posts']
 future: true

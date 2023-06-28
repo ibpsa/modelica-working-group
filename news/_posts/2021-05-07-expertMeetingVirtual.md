@@ -8,7 +8,7 @@ type: workshop
 author: Michael Wetter
 ---
 
-On May 7 and May 12, 2021, the IBPSA Project 1 held its [7th Expert Meeting](https://github.com/ibpsa/project1/wiki/2021-05-07-Virtual-Expert-Meeting-Agenda).
+On May 7 and May 12, 2021, the IBPSA Modelica Working Group held its [7th Expert Meeting](https://github.com/ibpsa/modelica-working-group/wiki/2021-05-07-Virtual-Expert-Meeting-Agenda).
 The meeting was held as a web meeting, and was attended by 50 people.
 
 <!--excerpt-->
@@ -20,4 +20,4 @@ On the second day, a panel of users and developers discussed the needs for incre
 Modelica by buildings community, in particular design firms.
 
 For the slides of the meeting and its various breakout sessions,
-see the [github repository](https://github.com/ibpsa/project1/tree/master/meetings/2021-05-07-expert-meeting-virtual).
+see the [github repository](https://github.com/ibpsa/modelica-working-group/tree/master/meetings/2021-05-07-expert-meeting-virtual).

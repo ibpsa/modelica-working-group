@@ -8,7 +8,7 @@ type: workshop
 author: Michael Wetter
 ---
 
-On May 6, 2020, the IBPSA Project 1 held its 5th Expert Meeting.
+On May 6, 2020, the IBPSA Modelica Working Group held its 5th Expert Meeting.
 The meeting was held as a web meeting.
 It was attended by 50 people.
 
@@ -23,4 +23,4 @@ will be a meeting over 2 days with 3 hours of meetings each day. This format wil
 allow to have breakout sessions.
 
 For the slides of the meeting and its various breakout sessions,
-see the [github repository](https://github.com/ibpsa/project1/tree/master/meetings/2020-05-06-expert-meeting-montreal).
+see the [github repository](https://github.com/ibpsa/modelica-working-group/tree/master/meetings/2020-05-06-expert-meeting-montreal).

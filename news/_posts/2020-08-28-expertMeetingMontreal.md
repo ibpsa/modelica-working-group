@@ -8,22 +8,22 @@ type: workshop
 author: Michael Wetter
 ---
 
-The registration for the 6th IBPSA Project 1 Expert Meeting, to be held online only on Oct. 13 and 14, 2020, is open.
+The registration for the 6th IBPSA Modelica Working Group Expert Meeting, to be held online only on Oct. 13 and 14, 2020, is open.
 Registration deadline is October 5, 2020.
 
 <!--excerpt-->
 
 For registration and agenda, visit
-[https://github.com/ibpsa/project1/wiki/Meetings](https://github.com/ibpsa/project1/wiki/Meetings).
+[https://github.com/ibpsa/modelica-working-group/wiki/Meetings](https://github.com/ibpsa/modelica-working-group/wiki/Meetings).
 
-This is a working meeting to coordinate technical work on Project 1.
+This is a working meeting to coordinate technical work on Modelica Working Group.
 
 *Who should attend?*
 
-Attendees are expected to have contributed to IBPSA Project 1, or plan to make contributions to the project.
+Attendees are expected to have contributed to IBPSA Modelica Working Group, or plan to make contributions to the project.
 These expert meetings are used to coordinate the work within the tasks and among the tasks.
 Therefore, participation by people who work on the project is important.
-Attendance at the Expert Meeting is required for Organizational Participants (see [https://ibpsa.github.io/project1/participants.html](https://ibpsa.github.io/project1/participants.html)).
+Attendance at the Expert Meeting is required for Organizational Participants (see [https://ibpsa.github.io/modelica-working-group/participants.html](https://ibpsa.github.io/modelica-working-group/participants.html)).
 
-See [https://ibpsa.github.io/project1/participants.html](https://ibpsa.github.io/project1/participants.html) for membership levels and
-[https://ibpsa.github.io/project1/](https://ibpsa.github.io/project1/) for tasks and work plan.
+See [https://ibpsa.github.io/modelica-working-group/participants.html](https://ibpsa.github.io/modelica-working-group/participants.html) for membership levels and
+[https://ibpsa.github.io/modelica-working-group/](https://ibpsa.github.io/modelica-working-group/) for tasks and work plan.
