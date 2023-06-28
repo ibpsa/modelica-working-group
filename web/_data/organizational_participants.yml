@@ -4,20 +4,45 @@
   institute:     Lawrence Berkeley National Laboratory
   country:       USA
   role:          Co-operating agent
+  
+- date_joined:   10/10/2018
+  contact_name:  Filip Jorissen
+  contact_email: filip.jorissen@builtwins.com
+  institute:     BUILTWINS
+  affiliation:   BUILTWINS
+  country:       Belgium
+  
+- date_joined:   5/18/2018
+  contact_name:  Ettore Zanetti
+  contact_email: ezanetti@lbl.gov
+  institute:     Lawrence Berkeley National Laboratory
+  country:       USA
+  
+- date_joined:   4/1/2020
+  contact_name:  H. Casper Fu
+  contact_email: HCasperFu@lbl.gov
+  institute:     Lawrence Berkeley National Laboratory
+  country:       USA  
+  
 
 - date_joined:   5/18/2016
   contact_name:  Christoph van Treeck
   contact_email: treeck@e3d.rwth-aachen.de
   institute:     RWTH Aachen University - E3D
   country:       Germany
-  role:          Co-operating agent
 
 - date_joined:   5/18/2016
-  contact_name:  Marcus Fuchs
-  contact_email: mfuchs@eonerc.rwth-aachen.de
-  institute:     RWTH Aachen University - E.ON Energy Research Center, Inst. for Energy Efficient Buildings and Indoor Climate
+  contact_name:  Fabian Wullhorst
+  contact_email: fabian.wuellhorst@eonerc.rwth-aachen.de
+  institute:     RWTH Aachen University - E3D
   country:       Germany
-
+  
+- date_joined:   9/9/2021
+  contact_name:  Laura Maier
+  contact_email: laura.maier@eonerc.rwth-aachen.de
+  institute:   RWTH Aachen University - E3Db
+  country:       Germany
+  
 - date_joined:   5/18/2016
   contact_name:  Alessandro Maccarini
   contact_email: alm@sbi.aau.dk
@@ -26,15 +51,10 @@
 
 - date_joined:   5/18/2016
   contact_name:  Wangda Zuo
-  contact_email: Wangda.Zuo@colorado.edu
-  institute:     University of Colorado Boulder
+  contact_email: wangda.zuo@psu.edu
+  institute:     Penn State University
   country:       USA
 
-- date_joined:   6/10/2016
-  contact_name:  Zheng O'Neill
-  contact_email: ZONeill@eng.ua.edu
-  institute:     The University of Alabama
-  country:       USA
 
 - date_joined:   6/26/2016
   contact_name:  Lieve Helsen
@@ -42,77 +62,6 @@
   institute:     KU Leuven, Department of Mechanical Engineering / EnergyVille Thermal Systems
   country:       Belgium
 
-- date_joined:   6/13/2016
-  contact_name:  Dirk Saelens
-  contact_email: dirk.saelens@kuleuven.be
-  institute:     KU Leuven, Department of Civil Engineering / EnergyVille Building Physics
-  country:       Belgium
-
-- date_joined:   6/16/2016
-  contact_name:  Ralph Evins
-  contact_email: ralphevins@gmail.com
-  institute:     University of Victoria
-  country:       Canada
-
-- date_joined:   6/17/2016
-  contact_name:  Mathieu Schumann
-  contact_email: mathieu.schumann@edf.fr
-  institute:     EDF
-  country:       France
-
-- date_joined:   6/8/2016
-  contact_name:  James O'Donnell
-  contact_email: james.odonnell@ucd.ie
-  institute:     University College Dublin
-  country:       Ireland
-
-- date_joined:   9/5/2016
-  contact_name:  Nicolas Réhault
-  contact_email: nicolas.rehault@ise.fraunhofer.de
-  institute:     Fraunhofer Institute for Solar Energy Systems
-  country:       Germany
-
-- date_joined:   9/22/2016
-  contact_name:  Marcus Keane
-  contact_email: marcus.keane@nuigalway.ie
-  institute:     National University of Ireland, Galway
-  country:       Ireland
-
-- date_joined:   9/27/2016
-  contact_name:  Dimitrios Rovas
-  contact_email: d.rovas@ucl.ac.uk
-  institute:     University College London (UCL)/Technical University of Crete (TUC)
-  country:       England and Greece
-
-- date_joined:   10/6/2016
-  contact_name:  Christian Veje
-  contact_email: veje@mmmi.sdu.dk
-  institute:     Center for Energy Informatics, University of Southern Denmark
-  country:       Denmark
-
-- date_joined:   10/12/2016
-  contact_name:  Hubertus Tummescheit
-  contact_email: hubertus.tummescheit@modelon.com
-  institute:     Modelon
-  country:       Sweden
-
-- date_joined:   10/21/2016
-  contact_name:  Kristina Orehounig
-  contact_email: orehounig@arch.ethz.ch
-  institute:     Swiss Federal Institute of Technology (ETH) Zurich
-  country:       Switzerland
-
-- date_joined:   11/4/2016
-  contact_name:  L. Andrew Bollinger
-  contact_email: andrew.bollinger@empa.ch
-  institute:     Urban Energy Systems Laboratory, Empa
-  country:       Switzerland
-
-- date_joined:   1/9/2017
-  contact_name:  Christoph Nytsch-Geusen
-  contact_email: nytsch@udk-berlin.de
-  institute:     Berlin University of the Arts (UdK Berlin)
-  country:       Germany
 
 - date_joined:   3/29/2017
   contact_name:  Massimo Cimmino
@@ -120,56 +69,11 @@
   institute:     École Polytechnique de Montréal
   country:       Canada
 
-- date_joined:   4/5/2017
-  contact_name:  Gerald Schweiger
-  contact_email: gerald.schweiger@tugraz.at
-  institute:     TU Graz
-  country:       Austria
-
-- date_joined:   4/15/2017
-  contact_name:  Jiarui Lin
-  contact_email: jiarui_lin@foxmail.com
-  institute:     Tsinghua University
-  country:       China
-
-- date_joined:   6/1/2017
-  contact_name:  Yashkumar Shukla
-  contact_email: yash.shukla@cept.ac.in
-  institute:     CEPT University
-  country:       India
-
-- date_joined:   6/29/2017
-  contact_name:  Igor Sartori
-  contact_email: igor.sartori@sintef.no
-  institute:     SINTEF
-  country:       Norway
-
-- date_joined:   1/14/2018
-  contact_name:  Draguna Vrabie
-  contact_email: draguna.vrabie@pnnl.gov
-  institute:     Pacific Northwest National Laboratory
+- date_joined:   10/10/2022
+  contact_name:  Saranya Anbarasu
+  contact_email: sba5847@psu.edu
+  institute:     Penn State University
   country:       USA
 
-- date_joined:   1/16/2018
-  contact_name:  Michael Hörner
-  contact_email: m.hoerner@iwu.de
-  institute:     Institut Wohnen und Umwelt (IWU)
-  country:       Germany
 
-- date_joined:   7/24/2018
-  contact_name:  Allen Gilliland III
-  contact_email: agilliland3@buildzero.org
-  institute:     BuildZero.Org
-  country:       USA
 
-- date_joined:   2/7/2019
-  contact_name:  Karl-Heinz Häfele
-  contact_email: karl-heinz.haefele@kit.edu
-  institute:     KIT
-  country:       Germany
-
-- date_joined:   7/1/2019
-  contact_name:  Elisa Van Kenhove
-  contact_email: elisa.vankenhove@ugent.be
-  institute:     Ghent University
-  country:       Belgium
