@@ -16,7 +16,7 @@ that builds the basis of next generation computing tools
 for the design and
 operation of building and district energy and control systems.
 It extends work conducted under the
-[IEA EBC Annex 60](http://www.iea-annex60.org) and [IBPSA project1](https://ibpsa.github.io/project1/).
+[IEA EBC Annex 60](http://www.iea-annex60.org) and [IBPSA Project 1](https://ibpsa.github.io/project1/).
 All work is open-source and built on the [Modelica](http://www.modelica.org) standard for modeling the performance of building and district energy systems.
 
 <h2>Announcements</h2>
@@ -59,7 +59,7 @@ the results of other simulators or against measurement data.
 </p>
 <p>
 Through these libraries, models of the Modelica IBPSA Library are also used in derivative soft-
-ware, such as in  <a href="https://github.com/ibpsa/project1-boptest">BOPTEST </a>, <a href="https://lbl-srg.github.io/soep/"> Spawn of EnergyPlus</a>,<a href="https://docs.urbanopt.net/workflows/des.html"> URBANopt</a>  for District Energy Systems, Electricity de France’s <a href="https://github.com/EDF-Lab/BuildSysPro"> BuildSysPro Library</a>  , PennState Smart and Connected Communities <a href="https://sites.psu.edu/sbslab/tools/smart-and-connected-communities-scc-library/"> SCC Library </a> and Net Zero Energy <a href="https://sites.psu.edu/sbslab/tools/net-zero-energy-community-nzec-library/"> (NZEC) Library</a> . 
+ware, such as in  <a href="https://github.com/ibpsa/project1-boptest">BOPTEST </a>, <a href="https://lbl-srg.github.io/soep/"> Spawn of EnergyPlus</a>,<a href="https://docs.urbanopt.net/workflows/des.html"> URBANopt</a>  for District Energy Systems, Electricity de France’s <a href="https://github.com/EDF-Lab/BuildSysPro"> BuildSysPro Library</a>  , PennState Smart and Connected Communities <a href="https://sites.psu.edu/sbslab/tools/smart-and-connected-communities-scc-library/"> SCC Library </a> and Net Zero Energy <a href="https://sites.psu.edu/sbslab/tools/net-zero-energy-community-nzec-library/"> (NZEC) Library</a> .
 The Modelica IBPSA Library is being tested with the three Modelica tools OpenModelica, OPTIM-
 ICA/IMPACT and Dymola.
 </p>
@@ -71,7 +71,7 @@ ICA/IMPACT and Dymola.
 <td>
 Duration
 </td>
-<td>2022-Indefinite
+<td>2022-indefinite
 </td>
 </tr>
 <tr valign="top">
