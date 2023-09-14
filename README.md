@@ -20,3 +20,5 @@ The purpose and scope of the Working Group includes the following:
 See the approved [proposal](https://github.com/ibpsa/modelica-working-group/blob/main/reports/2023-proposal-approved/build/latex/ibpsa_modelica.pdf) for details.
 
 For the wiki that contains meeting announcements and agendas, visit https://github.com/ibpsa/modelica-working-group/wiki.
+
+This repository contains the supporting website for Modelica Working Group in the ```web``` folder. To deploy the website locally the ```compile_local_dev.sh``` script can be used, while for online deployment the ```compile.sh``` is used.
