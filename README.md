@@ -1,6 +1,7 @@
 # IBPSA Modelica Working Group
 
 This public repository is for the administration of the IBPSA Modelica Working Group.
+The project web page is at https://ibpsa.github.io/modelica-working-group/.
 
 The Working Group is conducted under the umbrella of the
 International Building Performance Simulaton Association (https://ibpsa.org/).
