@@ -25,7 +25,7 @@ To receive announcements, [join the google group](https://groups.google.com/g/ib
 
 <h2>Working group purpose</h2>
 The main task, which is highlighted in the proposal
-[workplan]({{ site.url }}/downloads/ibpsa-modelica-working-group-proposal), is the continuation of IBPSAProject 1 Work Package 1.1 "Modelica library development" under the new name of "Modelica Working Group".
+[workplan](https://github.com/ibpsa/modelica-working-group/blob/main/reports/2023-proposal-approved/build/latex/ibpsa_modelica.pdf), is the continuation of IBPSAProject 1 Work Package 1.1 "Modelica library development" under the new name of "Modelica Working Group".
 
 This work package will develop a free open-source
 library of Modelica models for design and operation of
