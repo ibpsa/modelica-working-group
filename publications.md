@@ -24,6 +24,9 @@ Visit
 <h1>Journals</h1>
 <ol reversed>
 <li>
+<span class="title">AixLib: an open-source Modelica library for compound building energy systems from component to district level with automated quality management</span>.<br><span class="author">Laura Maier, David Jansen, Fabian Wuellhorst, Martin Kremer, Alexander Kuempel, Tobias Blacha, Dirk Mueller</span>.<br><i>Journal of Building Performance Simulation</i>, Vol. 0, No. 0, p. 1-24, <span class="year">2023</span>.<br>[ <a href="https://doi.org/10.1080/19401493.2023.2250521">link</a> ]
+</li>
+<li>
 <span class="title">Information modelling for urban building energy simulation-A taxonomic review</span>.<br><span class="author">Avichal Malhotra, Julian Bischof, Alexandru Nichersu, Karl-Heinz H&auml;fele, Johannes Exenberger, Divyanshu Sood, James Allan, J&eacute;r&ocirc;me Frisch, Christoph van Treeck, James O'Donnell, Gerald Schweiger</span>.<br><i>Building and Environment</i>, Vol. 208, No. 108552, p. 1-18, <span class="month">January</span>, <span class="year">2022</span>.<br>[ <a href="https://www.sciencedirect.com/science/article/pii/S0360132321009422">link</a> ]
 </li>
 <li>

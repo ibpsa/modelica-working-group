@@ -24,22 +24,22 @@
 - date_joined:   5/18/2016
   contact_name:  Christoph van Treeck
   contact_email: treeck@e3d.rwth-aachen.de
-  affiliation:   RWTH Aachen University - E3D
-  institute:     RWTH Aachen University - E3D
+  affiliation:   RWTH Aachen University - EBC
+  institute:     RWTH Aachen University - EBC
   country:       Germany
 
 - date_joined:   5/18/2016
-  contact_name:  Fabian Wullhorst
+  contact_name:  Fabian Wuellhorst
   contact_email: fabian.wuellhorst@eonerc.rwth-aachen.de
-  affiliation:   RWTH Aachen University - E3D
-  institute:     RWTH Aachen University - E3D
+  affiliation:   RWTH Aachen University - EBC
+  institute:     RWTH Aachen University - EBC
   country:       Germany
   
 - date_joined:   9/9/2021
   contact_name:  Laura Maier
   contact_email: laura.maier@eonerc.rwth-aachen.de
-  affiliation:   RWTH Aachen University - E3D
-  institute:   RWTH Aachen University - E3Db
+  affiliation:   RWTH Aachen University - EBC
+  institute:   RWTH Aachen University - EBC
   country:       Germany  
   
 - date_joined:   10/10/2018
@@ -109,4 +109,8 @@
   affiliation:   R2M Solution Spain SL
   country:       Spain
 
-  
+- date_joined:   5/18/2016
+  contact_name:  Christoph Nytsch-Geusen
+  contact_email: nytsch@udk-berlin.de
+  affiliation:   Berlin University of the Arts
+  country:       German  
